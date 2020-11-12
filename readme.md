@@ -1,4 +1,5 @@
 #Git
+* https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#awesm=~ov7bIrGQaqvurk
 
 ##Introduction
 * What is Git?
